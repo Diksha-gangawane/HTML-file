@@ -1,0 +1,1 @@
+this is an api based project using web development. smiple project using HTML, CSS, JavaScript, OpenWeatherMap Api. this Project show you a weather information of any loaction.this the simple project i have created when I learn web development.this is my first project. 
